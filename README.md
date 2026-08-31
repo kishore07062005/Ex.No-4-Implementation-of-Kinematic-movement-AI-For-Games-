@@ -86,12 +86,12 @@ public class fleeScript : MonoBehaviour
 ### OUTPUT:
 
 
-# Before Seek:
+ Before Seek:
 
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/45b8f687-57d4-46e6-ab17-b339f8d2b5d1" />
 
 
-# After Seek:
+ After Seek:
 
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/dc2e09de-cfe9-4367-8f60-ffa77862cfe8" />
 
